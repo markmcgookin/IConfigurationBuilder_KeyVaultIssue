@@ -1,0 +1,6 @@
+/Users/markmcgookin/Desktop/example/obj/Debug/netcoreapp2.1/example.csprojAssemblyReference.cache
+/Users/markmcgookin/Desktop/example/obj/Debug/netcoreapp2.1/example.csproj.CoreCompileInputs.cache
+/Users/markmcgookin/Desktop/example/obj/Debug/netcoreapp2.1/example.RazorAssemblyInfo.cache
+/Users/markmcgookin/Desktop/example/obj/Debug/netcoreapp2.1/example.RazorAssemblyInfo.cs
+/Users/markmcgookin/Desktop/example/obj/Debug/netcoreapp2.1/example.AssemblyInfoInputs.cache
+/Users/markmcgookin/Desktop/example/obj/Debug/netcoreapp2.1/example.AssemblyInfo.cs
